@@ -20,8 +20,7 @@ void powers(int num1, int num2) {
 		std::cout << result << ", ";
 		result*=num1;
 	}
-	std::cout << "\b\b ";
-	
+	std::cout << "\b\b ";	
 }
 
 void positive_arr(int arr[], const int length) {
